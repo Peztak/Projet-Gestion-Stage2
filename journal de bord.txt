@@ -1,0 +1,4 @@
+Lundi 14 novembre:
+Création de l'interface graphique du logiciel de gestion.
+Choix des langages, Java et PHP.
+Création de la base de données SQL.
